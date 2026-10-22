@@ -1,0 +1,10 @@
+{
+  "name": "Óptica Dens — Sistema Integral Óptico y Clínico",
+  "short_name": "Óptica Dens",
+  "description": "Reemplazo total de Pulpos: Consulta, Expediente, Fórmula, POS, Laboratorio, OCR Tickets, Inventario y CFDI 4.0 México.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F4F7FA",
+  "theme_color": "#0070B8",
+  "lang": "es-MX"
+}
